@@ -5,7 +5,7 @@
     <attributes name="ACCESS_NETWORK_STATE" value="true"/>
     <attributes name="ACCESS_WIFI_STATE" value="false"/>
     <attributes name="SET_WALLPAPER_HINTS" value="false"/>
-    <attributes name="mwaddrkey" value="10.10.5.26"/>
+    <attributes name="mwaddrkey" value=""/>
     <attributes name="win8packagenamekey" value="SampleDeviceInfo"/>
     <attributes name="portkey" value=""/>
     <attributes name="WP8_ID_CAP_LOCATION" value="true"/>
@@ -46,7 +46,7 @@
     <attributes name="ID_CAP_PHONEDIALER" value="true"/>
     <attributes name="WP8_ID_CAP_WALLET_PAYMENTINSTRUMENTS" value="true"/>
     <attributes name="backward_compatibility_mode" value="false"/>
-    <attributes name="appversionkey" value="1.0.0"/>
+    <attributes name="appversionkey" value="1.0.1"/>
     <attributes name="removeprintstatements" value="true"/>
     <attributes name="mwcontextkey" value=""/>
     <attributes name="apploadeventkey" value="None"/>
@@ -130,7 +130,7 @@
     <attributes name="desktopwebaligenmentoption" value="left"/>
     <attributes name="win8badgelogokey" value=""/>
     <attributes name="hostkey" value=""/>
-    <attributes name="mwportkey" value="80"/>
+    <attributes name="mwportkey" value=""/>
     <attributes name="wp8packagepublisherkey" value="Kony"/>
     <attributes name="win8certificatekey" value=""/>
     <attributes name="enablefocushtml5iphonbb" value="false"/>
@@ -245,6 +245,7 @@
     <attributes name="androidInstallLocation" value="Auto"/>
     <attributes name="androidscreenlarge" value="true"/>
     <attributes name="tcnth360basefontsize" value="13"/>
+    <attributes name="generateJavaCodeForForms" value="false"/>
     <attributes name="INJECT_EVENTS" value="false"/>
     <attributes name="wintilebackcolornamekey" value="128,128,128"/>
     <attributes name="wp8cyclesmallkey" value=""/>
@@ -286,7 +287,7 @@
     <attributes name="SET_ALWAYS_FINISH" value="false"/>
     <attributes name="WP8_ID_CAP_SPEECH_RECOGNITION" value="true"/>
     <attributes name="apptitle" value=""/>
-    <attributes name="apppackagekey" value="com.orgname.SampleDeviceInfo"/>
+    <attributes name="apppackagekey" value="com.kony.SampleDeviceInfo"/>
     <attributes name="WP8_ID_CAP_WALLET_SECUREELEMENT" value="true"/>
     <attributes name="SET_ALARM" value="false"/>
     <attributes name="ID_REQ_NFC" value="false"/>
@@ -300,7 +301,7 @@
     <attributes name="iphoneurlscheme" value=""/>
     <attributes name="REORDER_TASKS" value="false"/>
     <attributes name="STATUS_BAR" value="false"/>
-    <attributes name="iphonebundleidentifierkey" value="com.kone.SampleDeviceInfo"/>
+    <attributes name="iphonebundleidentifierkey" value="com.kony.SampleDeviceInfo"/>
     <attributes name="WP8_ID_CAP_NETWORKING" value="true"/>
     <attributes name="spaandroidtabbasefontsize" value="17"/>
     <attributes name="SET_WALLPAPER" value="false"/>
@@ -360,9 +361,9 @@
     <attributes name="spawindows320basefontsize" value="12"/>
     <attributes name="bbservicemenuitemlabel" value=""/>
     <attributes name="ACCESS_SURFACE_FLINGER" value="false"/>
-    <attributes name="currentgaversion" value="5.0.98.QA_v201307231713_r6"/>
+    <attributes name="currentgaversion" value="5.0.605.Dev_v201308221353"/>
     <attributes name="ID_CAP_WEBBROWSERCOMPONENT" value="true"/>
-    <attributes name="mwhttpsportkey" value="443"/>
+    <attributes name="mwhttpsportkey" value=""/>
     <attributes name="pathkey" value=""/>
     <attributes name="FORCE_BACK" value="false"/>
     <attributes name="vendornamekey" value="KonyLabs"/>

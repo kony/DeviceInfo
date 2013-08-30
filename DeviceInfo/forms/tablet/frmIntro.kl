@@ -623,6 +623,7 @@
         <win_enablescreenmenu>false</win_enablescreenmenu>
         <win_autofocus>true</win_autofocus>
         <wm_orientation>2</wm_orientation>
+        <wm_maxappmenubuttons>4</wm_maxappmenubuttons>
         <win_intransition>Default</win_intransition>
         <win_outtransition>Default</win_outtransition>
         <win_intransitionmode>Default</win_intransitionmode>
@@ -641,6 +642,7 @@
         <winphone8_layout>Vertical</winphone8_layout>
         <winphone8_showformtitle>false</winphone8_showformtitle>
         <winphone8_backButton>false</winphone8_backButton>
+        <winphone8_maxappmenubuttons>4</winphone8_maxappmenubuttons>
         <win8TitleBarData>
             <backButtonSkin>Skin Defaults</backButtonSkin>
             <showBackButton>true</showBackButton>
@@ -3583,7 +3585,7 @@
                         <left>0</left>
                         <right>0</right>
                         <top>0</top>
-                        <bottom>5</bottom>
+                        <bottom>0</bottom>
                         <unit>%</unit>
                     </spaipad>
                     <spaipad_override>true</spaipad_override>
@@ -3609,7 +3611,7 @@
                         <left>0</left>
                         <right>0</right>
                         <top>0</top>
-                        <bottom>3</bottom>
+                        <bottom>1</bottom>
                         <unit>%</unit>
                     </tabspaAndroid>
                     <tabspaWindows>
@@ -3849,7 +3851,7 @@
                     <spaipad>
                         <left>0</left>
                         <right>0</right>
-                        <top>1</top>
+                        <top>0</top>
                         <bottom>0</bottom>
                         <unit>%</unit>
                     </spaipad>
@@ -4898,9 +4900,9 @@
                     <ipad>
                         <left>0</left>
                         <right>0</right>
-                        <top>20</top>
+                        <top>0</top>
                         <bottom>0</bottom>
-                        <unit>px</unit>
+                        <unit>%</unit>
                     </ipad>
                     <ipad_override>false</ipad_override>
                     <iphonerc>
@@ -4939,7 +4941,7 @@
                         <left>0</left>
                         <right>0</right>
                         <top>0</top>
-                        <bottom>5</bottom>
+                        <bottom>0</bottom>
                         <unit>%</unit>
                     </spaipad>
                     <spaipad_override>true</spaipad_override>
@@ -4965,7 +4967,7 @@
                         <left>0</left>
                         <right>0</right>
                         <top>0</top>
-                        <bottom>3</bottom>
+                        <bottom>1</bottom>
                         <unit>%</unit>
                     </tabspaAndroid>
                     <tabspaWindows>
@@ -4991,7 +4993,7 @@
                         <bottom>0</bottom>
                         <unit>%</unit>
                     </windows8>
-                    <windows8_override>true</windows8_override>
+                    <windows8_override>false</windows8_override>
                     <winmobile>
                         <left>0</left>
                         <right>0</right>
@@ -5205,8 +5207,8 @@
                     <spaipad>
                         <left>0</left>
                         <right>0</right>
-                        <top>1</top>
-                        <bottom>1</bottom>
+                        <top>0</top>
+                        <bottom>0</bottom>
                         <unit>%</unit>
                     </spaipad>
                     <spaipad_override>true</spaipad_override>
