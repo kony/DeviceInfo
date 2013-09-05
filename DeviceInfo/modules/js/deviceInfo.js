@@ -44,5 +44,6 @@ function deviceInfo()
       	details.push({lblKey:"freeMemory",lblVal:""+kony.os.freeMemory()});
       	details.push({lblKey:"userAgent",lblVal:""+kony.os.userAgent()});    
     }
+    
     frmDeviceInfo.segDeviceInfo.setData(details);
 }
