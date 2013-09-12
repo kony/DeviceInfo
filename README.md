@@ -11,13 +11,17 @@ This Application will showcase the following features of Device Information API
 * Retieving the current device capabilities
 
 # Supported platforms:
-* iPhone
-* iPad
-* Android
-* Android tablet
-* SPA iPhone
-* SPA iPad
-* SPA Android
-* SPA Android tablet
-* DesktopWeb
-
+**Mobile**
+ * Android
+ * iPhone
+ * SPA Android
+ * SPA iPhone
+ 
+**Tablet** 
+ * Anroid
+ * iPad
+ * SPA iPad
+ * SPA Android
+ 
+**Desktop**
+ * DesktopWeb
