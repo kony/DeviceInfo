@@ -15,6 +15,8 @@ This Application will showcase the following features of Device Information API
  * Android
  * iPhone
  * Blackberry
+ * windows8
+ * windows7.5
  * SPA Android
  * SPA iPhone
  * SPA Blackberry
