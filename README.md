@@ -14,8 +14,10 @@ This Application will showcase the following features of Device Information API
 **Mobile**
  * Android
  * iPhone
+ * Blackberry
  * SPA Android
  * SPA iPhone
+ * SPA Blackberry
  
 **Tablet** 
  * Android
