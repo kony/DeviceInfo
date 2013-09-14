@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<application name="DeviceInfo" id="DeviceInfo">
-    <container type="form" id="frmDeviceInfo" displayname="Form"/>
-    <container type="form" id="frmIntro" displayname="Form"/>
-    <container type="form" id="frmDeviceInfo" displayname="Form"/>
-    <container type="form" id="frmIntro" displayname="Form"/>
-    <container type="form" id="frmDeviceInfo" displayname="Form"/>
-    <container type="form" id="frmIntro" displayname="Form"/>
+<application id="DeviceInfo" name="DeviceInfo">
+    <container displayname="Form" id="frmDeviceInfo" type="form"/>
+    <container displayname="Form" id="frmIntro" type="form"/>
+    <container displayname="Form" id="frmDeviceInfo" type="form"/>
+    <container displayname="Form" id="frmIntro" type="form"/>
+    <container displayname="Form" id="frmDeviceInfo" type="form"/>
+    <container displayname="Form" id="frmIntro" type="form"/>
     <globalsequences/>
     <skins/>
 </application>

@@ -4113,6 +4113,7 @@
         <overrideProperties>KForm.androidtitleBar</overrideProperties>
         <overrideProperties>KForm.ipadtitleBar</overrideProperties>
         <overrideProperties>KForm.iphonetitleBar</overrideProperties>
+        <overrideProperties>KForm.win8titleBar</overrideProperties>
         <winphone8_intransition>Default</winphone8_intransition>
         <winphone8_outtransition>Default</winphone8_outtransition>
         <winphone8_intransitionmode>Default</winphone8_intransitionmode>

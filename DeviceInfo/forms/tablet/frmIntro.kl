@@ -3604,7 +3604,7 @@
                     </spaipad>
                     <spaipad_override>true</spaipad_override>
                     <spatablet_android_override>true</spatablet_android_override>
-                    <spatablet_windows_override>false</spatablet_windows_override>
+                    <spatablet_windows_override>true</spatablet_windows_override>
                     <symbian>
                         <left>0</left>
                         <right>0</right>
@@ -4961,7 +4961,7 @@
                     </spaipad>
                     <spaipad_override>true</spaipad_override>
                     <spatablet_android_override>true</spatablet_android_override>
-                    <spatablet_windows_override>false</spatablet_windows_override>
+                    <spatablet_windows_override>true</spatablet_windows_override>
                     <symbian>
                         <left>0</left>
                         <right>0</right>
