@@ -423,7 +423,7 @@
         </paddings>
         <contentAlign>0</contentAlign>
         <idle_timeout>false</idle_timeout>
-        <retain_scrollPosition>false</retain_scrollPosition>
+        <retain_scrollPosition>true</retain_scrollPosition>
         <dialog_width>80</dialog_width>
         <headerId>None</headerId>
         <footerId>None</footerId>
@@ -648,7 +648,7 @@
         <win8TitleBarData>
             <backButtonSkin>Skin Defaults</backButtonSkin>
             <showBackButton>true</showBackButton>
-            <skinID>Skin Defaults</skinID>
+            <skinID>sknTitleBarSampleApp</skinID>
             <visible>true</visible>
         </win8TitleBarData>
         <android_orientation>2</android_orientation>
@@ -1540,8 +1540,8 @@
                     <width>100</width>
                     <height>38</height>
                 </sizePercent>
-                <skinId>Skin Defaults</skinId>
-                <focusSkinId>Skin Defaults</focusSkinId>
+                <skinId>sknHbxTrans</skinId>
+                <focusSkinId>sknHbxTrans</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>
@@ -3517,7 +3517,7 @@
                 <rc_winmobile6x>true</rc_winmobile6x>
                 <rc_winphone8>true</rc_winphone8>
                 <tabspa_ipad>true</tabspa_ipad>
-                <tabspa_windows>false</tabspa_windows>
+                <tabspa_windows>true</tabspa_windows>
                 <tabspaspa_android>true</tabspaspa_android>
                 <tc_spaandroid>true</tc_spaandroid>
                 <tc_spabb>true</tc_spabb>
