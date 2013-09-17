@@ -26,6 +26,7 @@ This Application will showcase the following features of Device Information API
  * iPad
  * SPA iPad
  * SPA Android
+ * Windows8
  
 **Desktop**
  * DesktopWeb
