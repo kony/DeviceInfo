@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project name="DeviceInfo" path="/Users/platform/KH2041/Projects/GithubClean/DeviceInfo/DeviceInfo">
+    <channel type="mobile"/>
+    <channel type="tablet"/>
+    <channel type="desktop"/>
+</project>
